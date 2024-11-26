@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.hib3.entities">
+    <class name="Passport" table="passport">
+        <id name="passportNo" column="passport_no"/>
+        <property name="passportHName" column="passport_h_nm"/>
+        <property name="issueDt" column="issue_dt"/>
+        <property name="expiryDt" column="expiry_dt"/>
+        <property name="issueAutho" column="issued_autho"/>
+    </class>
+</hibernate-mapping>

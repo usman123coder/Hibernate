@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.sh.entities">
+    <class name="Address" table="address">
+        <id name="addressNo" type="java.lang.Integer">
+            <column name="address_no" sql-type="int"/>
+        </id>
+        <property name="addressLine" type="java.lang.String">
+            <column name="address_line" sql-type="VARCHAR"/>
+        </property>
+        <property name="street" column="street"/>
+        <property name="zip" column="zip"/>
+        <property name="city" column="city"/>
+        <property name="state" column="state"/>
+        <property name="country" column="country"/>
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Annotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ExAllProject/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ExAllProject/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PropertiesExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PropertiesExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SFManager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SFManager/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Second-hibernate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Second-hibernate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Transaction-mgmt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Transaction-mgmt/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/getvsload/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/getvsload/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hib3bootstrapping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hib3bootstrapping/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../PracticeProjects/hib3bootstrappingex/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../PracticeProjects/hib3bootstrappingex/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

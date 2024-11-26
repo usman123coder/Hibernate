@@ -1,0 +1,23 @@
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+        config
+
+
+
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD//EN"
+        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+
+
+         <dependency>
+              <groupId>org.hibernate.orm</groupId>
+              <artifactId>hibernate-core</artifactId>
+              <version>6.5.2.Final</version>
+            </dependency>
+            <dependency>
+              <groupId>com.mysql</groupId>
+              <artifactId>mysql-connector-j</artifactId>
+              <version>8.4.0</version>
+            </dependency>
